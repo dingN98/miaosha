@@ -2,6 +2,13 @@
 
 该项目为基于SpringBoot的简易秒杀系统实战代码
 
+rabbitMq下载安装 https://juejin.cn/post/7101855270854197284
+
+Mysql下载安装 https://zhuanlan.zhihu.com/p/81801548
+
+redis下载安装 https://www.runoob.com/redis/redis-install.html
+
+
 ### 对应教程
 
 [【秒杀系统】零基础上手秒杀系统（一）：防止超卖](https://mp.weixin.qq.com/s?__biz=MzU1NTA0NTEwMg==&mid=2247484174&idx=1&sn=235af7ead49a7d33e7fab52e05d5021f&lang=zh_CN#rd)
